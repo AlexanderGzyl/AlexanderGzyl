@@ -20,7 +20,7 @@
 
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css&logoColor=white&color=EC3E85)
-![](https://img.shields.io/badge/Style-BootStrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=EC3E85)
+
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=EC3E85)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=EC3E85)
