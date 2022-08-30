@@ -1,5 +1,5 @@
 # Hi there, I'm Alex :wave:
-- 🌱 I’m currently learning Jest and TDD
+- 🌱 I’m currently learning TDD and sharpening my OOP
 - ⚡ Fun fact: I have a background in materials informatics!
 
 <img  align = "left" width="47%" height ="200px" src="https://github-readme-stats.vercel.app/api?username=AlexanderGzyl&show_icons=true&theme=radical"/>
