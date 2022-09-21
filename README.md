@@ -21,6 +21,7 @@
 
 ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=EC3E85)
 ![](https://img.shields.io/badge/Code-Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=EC3E85)
+![](https://img.shields.io/badge/Code-Cypress-informational?style=for-the-badge&logo=cypress&logoColor=white&color=EC3E85)
 
 </div>
 
