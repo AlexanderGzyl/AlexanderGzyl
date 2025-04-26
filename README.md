@@ -1,8 +1,7 @@
 # Hi there, I'm Alex :wave:
-- 🌱 I’m currently a volunteer backend developer for Empowered Futures check them out! (https://empoweredfutures.ca/)
-- ⚡ Fun fact: I have a background in materials informatics!
 
-<img  align = "left" width="47%" height ="200px" src="https://github-readme-stats.vercel.app/api?username=AlexanderGzyl&show_icons=true&theme=radical"/>
+
+
 <img align = "left" width="47%" height ="200px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderGzyl&layout=compact&theme=radical"/>
 
 <h2 > :mortar_board: Skills </h2>
